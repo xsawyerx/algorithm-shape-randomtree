@@ -60,6 +60,10 @@ SUPPORT
         <http://search.cpan.org/dist/Algorithm-Shape-RandomTree/>
 
 ACKNOWLEDGEMENTS
+        The author wishes to thank XSAWYERX for his much appreciated help,
+        without which this module would have been much uglier, and much
+        more bug prone.
+
 LICENSE AND COPYRIGHT
     Copyright 2010 Tamir Lousky.
 

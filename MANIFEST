@@ -1,5 +1,6 @@
 Build.PL
 Changes
+examples/tree_builer.pl
 lib/Algorithm/Shape/RandomTree.pm
 lib/Algorithm/Shape/RandomTree/Branch.pm
 lib/Algorithm/Shape/RandomTree/Branch/Point.pm
@@ -10,6 +11,9 @@ MANIFEST.SKIP
 META.yml
 README
 t/00-load.t
+t/calc_new_endpoints.t
+t/calc_new_nodulation.t
+t/create_path.t
 t/manifest.t
 t/pod-coverage.t
 t/pod.t
