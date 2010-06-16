@@ -8,7 +8,8 @@ my $builder = Module::Build->new(
     dist_author         => q{Tamir Lousky <tlousky@cpan.org>},
     dist_version_from   => 'lib/Algorithm/Shape/RandomTree.pm',
     build_requires      => {
-        'Test::More' => 0,
+        'Test::More'      => 0,
+        'Test::Exception' => 0,
     },
     requires => {
         'Moose'                => 0,
